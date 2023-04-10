@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AndroidLabs</string>
+    <string name="city_title_hint">Enter a title for the city.</string>
+    <string name="city_title_label">Title</string>
+    <string name="city_details_label">Details</string>
+    <string name="city_favorite_label">favorite</string>
 </resources>
